@@ -4,8 +4,8 @@ jdk:
 
 addons:
    sonarcloud:
-      organization: juliandavis7-github
-      token: travis encrypt 0ed64a6725da7bcbac78155c9dbab637fb9acb32
+      organization: juliandavis7
+      token: 0ed64a6725da7bcbac78155c9dbab637fb9acb32
 
 script:
 - ant build
