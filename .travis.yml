@@ -9,4 +9,4 @@ addons:
 
 script:
 - ant build
-- sonar-scanner -X
+- sonar-scanner
