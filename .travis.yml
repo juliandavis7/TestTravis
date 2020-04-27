@@ -4,7 +4,7 @@ jdk:
 
 addons:
   sonarcloud:
-    organization: "juliandavis7"
+    organization: "juliandavis7-github"
     token:
       secure: "travis encrypt 7b51610dd1e4441a638b99db64a5f891752cdd7f" # encrypted value of your token
 
